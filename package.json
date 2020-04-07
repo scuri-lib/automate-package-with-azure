@@ -1,0 +1,16 @@
+{
+  "name": "automate-package-with-azure",
+  "version": "1.0.0",
+  "description": "Example package for demonstrating package publish automation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test successful && exit 0"
+  },
+  "keywords": [
+    "automate",
+    "example",
+    "azure"
+  ],
+  "author": "gparlakov@gmail.com",
+  "license": "MIT"
+}
