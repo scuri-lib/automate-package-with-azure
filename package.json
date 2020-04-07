@@ -1,6 +1,6 @@
 {
   "name": "automate-package-with-azure",
-  "version": "1.0.0",
+  "version": "1.0.1-rc.0",
   "description": "Example package for demonstrating package publish automation.",
   "main": "index.js",
   "scripts": {
